@@ -15,6 +15,6 @@ defmodule HelloWorld do
 
   """
   def hello do
-    "Hello, world and Goodbye!"
+    "Hello, world!"
   end
 end
