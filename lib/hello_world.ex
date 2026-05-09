@@ -15,6 +15,10 @@ defmodule HelloWorld do
 
   """
   def hello do
-    "Hello, world!"
+    print_hello
+    print_goodbye
   end
+
+  def print_hello, do: IO.puts("Hello, World!")
+  def print_goodbye, do: IO.puts("Goodbye, World!")
 end
