@@ -13,6 +13,6 @@ defmodule HelloWorld do
 
   """
   def hello do
-    :world
+    "Hello, world and Goodbye!"
   end
 end
