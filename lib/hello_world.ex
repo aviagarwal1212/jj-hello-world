@@ -1,6 +1,6 @@
 defmodule HelloWorld do
   @moduledoc """
-  Documentation for `HelloWorld`.
+  Documentation for a `HelloWorld` program.
   """
 
   @doc """
